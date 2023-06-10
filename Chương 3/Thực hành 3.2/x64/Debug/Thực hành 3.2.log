@@ -1,0 +1,3 @@
+﻿  Source.cpp
+E:\Lập trình C++\Demo CPP\Thực hành 3.2\Source.cpp(7,7): warning C4305: '=': truncation from 'double' to 'float'
+  Thực hành 3.2.vcxproj -> E:\Lập trình C++\Demo CPP\x64\Debug\Thực hành 3.2.exe
