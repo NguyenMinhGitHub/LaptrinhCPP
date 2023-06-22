@@ -1,0 +1,5 @@
+﻿  Source.cpp
+E:\Lập trình C++\Demo CPP\Thực hành 5.7\Source.cpp(11,34): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+E:\Lập trình C++\Demo CPP\Thực hành 5.7\Source.cpp(14,35): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+E:\Lập trình C++\Demo CPP\Thực hành 5.7\Source.cpp(6,9): warning C4101: 'x': unreferenced local variable
+  Thực hành 5.7.vcxproj -> E:\Lập trình C++\Demo CPP\x64\Debug\Thực hành 5.7.exe
